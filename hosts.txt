@@ -115,3 +115,14 @@
 0.0.0.0 www.gstatic.com
 0.0.0.0 www.youtube-nocookie.com
 0.0.0.0 youtube-nocookie.com
+0.0.0.0 r1---sn-0aug5oxu-nv4e.googlevideo.com
+0.0.0.0 r1---sn-nv47lnl7.googlevideo.com
+0.0.0.0 r1---sn-nv47lnsy.googlevideo.com
+0.0.0.0 r2---sn-0aug5oxu-nv4e.googlevideo.com
+0.0.0.0 r3---sn-0aug5oxu-nv4e.googlevideo.com
+0.0.0.0 r3---sn-nv47lnl7.googlevideo.com
+0.0.0.0 r3---sn-nv47lnly.googlevideo.com
+0.0.0.0 r4---sn-0aug5oxu-nv4e.googlevideo.com
+0.0.0.0 r4---sn-nv47lnl6.googlevideo.com
+0.0.0.0 r5---sn-nv47lney.googlevideo.com
+0.0.0.0 r5---sn-nv47lnsr.googlevideo.com
